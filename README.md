@@ -12,4 +12,4 @@ Nice to meet you! I'm Erin, an incoming sophomore studying Electrical and Comput
 
 ## 🤹Skills 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Python-14354C?style=flat&logo=css3&logoColor=white&color=4AB197)
