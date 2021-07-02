@@ -11,5 +11,6 @@ Nice to meet you! I'm Erin, an incoming sophomore studying Electrical and Comput
 - 😄 Pronouns: she/her
 
 ## 🤹Skills 
-![](https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Python-14354C?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/HTML-239120?style=flat&logo=css3&logoColor=white&color=4AB197)
