@@ -1,3 +1,6 @@
+[![Visits Badge](https://badges.pufler.dev/visits/glowyRectangle/glowyRectangle)](https://erinyan.dev/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/erin-yan-386412168/)
+
 ### Hi there 👋
 
 Nice to meet you! I'm Erin, an incoming sophomore studying Electrical and Computer Engineering Carnegie Mellon University. 
@@ -7,5 +10,6 @@ Nice to meet you! I'm Erin, an incoming sophomore studying Electrical and Comput
 - 📫 How to reach me: Erinyan@andrew.cmu.edu
 - 😄 Pronouns: she/her
 
-[![Visits Badge](https://badges.pufler.dev/visits/glowyRectangle/glowyRectangle)](https://erinyan.dev/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/erin-yan-386412168/)
+## 🤹Skills 
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&color=4AB197)
