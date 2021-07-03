@@ -1,7 +1,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/glowyRectangle/glowyRectangle)](https://erinyan.dev/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/erin-yan-386412168/)
 
-### Heyyyy, I'm Erin👋
+### Heyyyy, I'm Erin <img src="https://raw.githubusercontent.com/glowyRectangle/glowyRectangle/master/XOsX.gif" width="30px">
 
 Nice to meet you! I'm an incoming sophomore studying Electrical and Computer Engineering Carnegie Mellon University. 
 
