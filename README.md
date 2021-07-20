@@ -18,4 +18,4 @@ Nice to meet you! I'm an incoming sophomore studying Electrical and Computer Eng
 ![](https://img.shields.io/badge/HTML-239120?style=flat&logo=css3&logoColor=white&color=003E1F)
 ![](https://img.shields.io/badge/JavaScript-239120?style=flat&logo=css3&logoColor=white&color=003E1F)
 ## 💻Github stats
-[![Erin's github stats](https://github-readme-stats.vercel.app/api?username=glowyRectangle)](https://github.com/glowyRectangle/github-readme-stats)
+[![Erin's github stats](https://github-readme-stats.vercel.app/api?username=yan-erin)](https://github.com/yan-erin/github-readme-stats)
