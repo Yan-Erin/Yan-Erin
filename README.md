@@ -9,7 +9,7 @@ Nice to meet you! I'm an incoming sophomore studying Electrical and Computer Eng
 - 🌱 I’m currently learning THREE.js and machine learning
 - 😄 Pronouns: she/her
 ## 📞Reach Me At
-[![](https://img.shields.io/badge/Gmail-14354C?style=flat&logo=css3&logoColor=white&color=003E1F)](erinyan@andrew.cmu.edu)
+[![](https://img.shields.io/badge/Gmail-14354C?style=flat&logo=css3&logoColor=white&color=003E1F)](mailto:erinyan@andrew.cmu.edu)
 [![](https://img.shields.io/badge/Linkedin-239120?style=flat&logo=css3&logoColor=white&color=003E1F)](https://www.linkedin.com/in/erin-yan-386412168/)
   
 ## 🤹Skills 
