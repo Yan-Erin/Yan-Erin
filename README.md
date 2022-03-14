@@ -6,7 +6,7 @@
 Nice to meet you! I'm a sophomore studying Electrical and Computer Engineering Carnegie Mellon University. 
 
 - 🔭 I worked on structural health montitoring using convoluted neural networks during my internship at the INL this past summer
-- 🌱 I’m currently taking Principles of Imperitave Programming, Mathematical Foundations of Electrical Engineering, and Physics 2
+- 🌱 I’m currently taking Computer Systems
 - 😄 Pronouns: she/her
 ## 📞Reach Me At
 [![](https://img.shields.io/badge/Gmail-14354C?style=flat&logo=css3&logoColor=white&color=003E1F)](mailto:erinyan@andrew.cmu.edu)
