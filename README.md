@@ -3,7 +3,7 @@
 
 ### Heyyyy, I'm Erin <img src="https://raw.githubusercontent.com/glowyRectangle/glowyRectangle/master/XOsX.gif" height="60rem" width="60rem">
 
-Nice to meet you! I'm a sophomore studying Electrical and Computer Engineering Carnegie Mellon University. 
+Nice to meet you! I'm a junior studying Electrical and Computer Engineering Carnegie Mellon University with a focus on software systems. 
 
 - 🔭 I worked at NVIDIA as a Power Architect Intern last summer
 - 🌱 I’m currently taking database systems, web application development, and electronic circuits
