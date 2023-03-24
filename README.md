@@ -1,7 +1,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/yan-erin/yan-erin)](https://yanerin.dev/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/erin-yan-386412168/)
 
-### Heyyyy, I'm Erin <img src="https://raw.githubusercontent.com/glowyRectangle/glowyRectangle/master/XOsX.gif">
+### Heyyyy, I'm Erin <img src="https://raw.githubusercontent.com/glowyRectangle/glowyRectangle/master/XOsX.gif" width="60px" height="auto">
 
 Nice to meet you! I'm a junior studying Electrical and Computer Engineering Carnegie Mellon University with a focus on software systems. 
 
